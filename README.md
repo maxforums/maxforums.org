@@ -1,2 +1,3 @@
 # maxforums.org
-Private repo for static website hosted at maxforums.org
+
+This is the GitHub Pages hosted website as of September, 2025.
