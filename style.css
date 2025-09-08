@@ -1,0 +1,109 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background: #a0a68b;
+  font-family: Tahoma, Arial, Helvetica, sans-serif;
+}
+
+#wallpaper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: url("./bg.jpg") left top / 100% auto no-repeat;
+  filter: blur(0.4vw);
+  min-height: 63.75vw;
+}
+
+#content {
+  position: absolute;
+  z-index: 1;
+  border: 0.09765625vw solid #222;
+  background: #222;
+  top: 19.775390625vw;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 53.515625vw;
+  filter: drop-shadow(0 1vw 6vw rgba(34,34,34,0.33));
+}
+
+h1,
+p {
+  margin: 0;
+  height: 1.904296875vw;
+  line-height: 1.904296875vw;
+  border-bottom: 0.09765625vw solid #222;
+  font-size: 1.07421875vw;
+  font-weight: bold;
+  padding-left: 0.29296875vw;
+}
+
+h1 {
+  color: #878C74;
+  background: #222;
+}
+
+p {
+  color: #222;
+  background: #878c75;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #222;
+}
+
+a:hover {
+  color: #475424;
+}
+
+.memorial {
+  height: 27.34375vw;
+  width: 100%;
+  background: #b9bfa4;
+}
+
+.memorial img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+  #wallpaper {
+    display: none;
+  }
+
+  #content {
+    position: relative;
+    border-width: 1px;
+    top: 30px;
+    left: 30px;
+    margin-bottom: 30px;
+    transform: none;
+    width: calc(100% - 60px);
+    filter: drop-shadow(0 10px 61px rgba(34,34,34,0.33));
+  }
+
+  h1,
+  p {
+    height: auto;
+    min-height: 24px;
+    line-height: 1;
+    border-bottom-width: 1px;
+    font-size: 13px;
+    box-sizing: border-box;
+    padding: 5px;
+  }
+
+  .memorial {
+    height: 320px;
+    box-sizing: border-box;
+    padding: 0 30px;
+  }
+}
