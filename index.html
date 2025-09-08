@@ -60,12 +60,13 @@
         text-decoration: none;
       }
 
-      span {
+      a {
         text-decoration: underline;
         cursor: pointer;
+        color: #222;
       }
 
-      span:hover {
+      a:hover {
         color: #475424;
       }
 
@@ -120,7 +121,7 @@
     <div id="wallpaper"></div>
     <div id="content">
       <h1>Maxforums.org is down because of inactivity.</h1>
-      <p>But, if you want, you can join discord <span id="loc">here<span></p>
+      <p>But, if you want, you can join discord <a href="https://discord.com/invite/b9Qbqfe">here<a></p>
       <div class="memorial">
         <!-- TODO: convert back into selectable text -->
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 606 560">
@@ -492,11 +493,5 @@
         </svg>
       </div>
     </div>
-
-    <script>
-      const prefix="https://discord.com/invite/"
-      const fronat="b9Qbqfe"
-      document.getElementById('loc').addEventListener('click', () => window.open(`${prefix}${fronat}`));
-    </script>
   </body>
 </html>
