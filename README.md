@@ -1,5 +1,7 @@
 # maxforums.org
 
+<img width="3354" height="2382" alt="image" src="https://github.com/user-attachments/assets/34f92509-f220-4d2f-bf90-f3363af2af17" />
+
 This is the [GitHub Pages](https://docs.github.com/en/pages) hosted static website as of 8 September, 2025 and reinstates the [last valid `html`](https://web.archive.org/web/20231205223116/https://www.maxforums.org/) to appear under the Maxforums banner. 
 
 **Related:**
