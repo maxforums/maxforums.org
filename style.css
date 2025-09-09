@@ -13,7 +13,7 @@ body {
   height: 100%;
   top: 0;
   left: 0;
-  background: url("./bg.jpg") left top / 100% auto no-repeat;
+  background: url("./assets/bg.jpg") left top / 100% auto no-repeat;
   filter: blur(0.4vw);
   min-height: 63.75vw;
 }

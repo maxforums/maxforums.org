@@ -1,0 +1,16 @@
+url: "https://maxforums.org"
+title: Maxforums
+description: 3D artist community
+socialImg:
+  url: ./assets/social.png
+  width: 1200
+  height: 630
+  alt: Maxforums logo
+discord: https://discord.com/invite/b9Qbqfe
+
+#############################
+
+timezone: Europe/Brussels
+baseurl: ""
+plugins:
+  - jekyll-feed
