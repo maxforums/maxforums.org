@@ -2,7 +2,7 @@ url: "https://maxforums.org"
 title: Maxforums
 description: 3D artist community
 socialImg:
-  url: ./assets/social.png
+  url: "https://maxforums.org/assets/social.png"
   width: 1200
   height: 630
   alt: Maxforums logo
