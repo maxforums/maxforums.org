@@ -10,7 +10,7 @@ As of 8 September, 2025, maxforums.org has been pointing to a copy of the [last 
 
 ## Architecture
 
-[GitHub Pages](https://docs.github.com/en/pages)s uses [Jekyll](https://jekyllrb.com), a [Static Site Generator](https://en.wikipedia.org/wiki/Static_site_generator), to build and deploy changes to the website. Real-time dynamic applications on GitHub Pages are only possible with services, such as with a [Jamstack](https://jamstack.org) architecture.
+[GitHub Pages](https://docs.github.com/en/pages) uses [Jekyll](https://jekyllrb.com), a [Static Site Generator](https://en.wikipedia.org/wiki/Static_site_generator), to build and deploy changes to the website. Real-time dynamic applications on GitHub Pages are only possible with services, such as with a [Jamstack](https://jamstack.org) architecture.
 
 From [Wikipedia](https://en.wikipedia.org/wiki/JavaScript_stack#JAMstack):
 
@@ -21,3 +21,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/JavaScript_stack#JAMstack):
 ### Domain
 
 DNS records are being managed for free through [CloudFlare](https://www.cloudflare.com/plans/free/). The domain is temporarily registerd with NameBright. There is an [open issue](https://github.com/maxforums/maxforums.org/issues/6) to select a suitable long-term domain registrar.
+
+## Contributing
+
+If you would like to get involved, please message a @Moderator of the [Maxforums Discord](https://discord.com/invite/b9Qbqfe) or post in the `#maxforums-org` channel.
