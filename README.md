@@ -18,4 +18,4 @@ As of 8 September, 2025, maxforums.org is pointing to a continuation of the [las
 
 ## Contributing
 
-If you would like to get involved, post your thoughts in the `#maxforums-org` channel of the [Maxforums Discord](https://discord.com/invite/b9Qbqfe) or open a Pull Request.
+If you would like to get involved, post your thoughts in the `#maxforums-org` channel of the [Maxforums Discord](https://discord.com/invite/b9Qbqfe) or open a [Pull Request]([url](https://github.com/maxforums/maxforums.org/pulls)).
