@@ -20,4 +20,4 @@ From [Wikipedia](https://en.wikipedia.org/wiki/JavaScript_stack#JAMstack):
 
 ### Domain
 
-DNS records are being managed for free through CloudFlare. The domain is temporarily registerd with NameBright. There is an [open issue](https://github.com/maxforums/maxforums.org/issues/6) to select a suitable long-term domain registrar.
+DNS records are being managed for free through [CloudFlare](https://www.cloudflare.com/plans/free/). The domain is temporarily registerd with NameBright. There is an [open issue](https://github.com/maxforums/maxforums.org/issues/6) to select a suitable long-term domain registrar.
