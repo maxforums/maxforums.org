@@ -6,7 +6,7 @@
 
 This repository drives [maxforums.org](https://maxforums.org) and is a 1:1 representation of the static website that GitHub automatically builds, deploys, and hosts through their free [GitHub Pages](https://docs.github.com/en/pages) system, well suited for static, non-interactive splash pages like what is being served now.
 
-As of 8 September, 2025, maxforums.org has been pointing to a copy of the [last valid `html`](https://web.archive.org/web/20231205223116/https://www.maxforums.org/) to appear under the Maxforums banner before temporarily going dark.
+As of 8 September, 2025, maxforums.org is pointing to a continuation of the [last valid `html`](https://web.archive.org/web/20231205223116/https://www.maxforums.org/) to appear under the Maxforums banner before temporarily going dark.
 
 ## Architecture
 
