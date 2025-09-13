@@ -24,4 +24,4 @@ DNS records are being managed for free through [CloudFlare](https://www.cloudfla
 
 ## Contributing
 
-If you would like to get involved, post your thoughts in the `#maxforums-org` channel of the [Maxforums Discord](https://discord.com/invite/b9Qbqfe). Contact a `@Moderator` directly if you'd like to discuss being added as a code contributor to this repository.
+If you would like to get involved, post your thoughts in the `#maxforums-org` channel of the [Maxforums Discord](https://discord.com/invite/b9Qbqfe) or open a Pull Request.
