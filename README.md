@@ -14,6 +14,16 @@ As of 8 September, 2025, maxforums.org is pointing to a continuation of the [las
 
 This back-end was chosen for its low cost, low latency, developer friendliness, and simple, maintainable, robust, and secure nature that is well suited for static splash pages like what is being served now. As there is currently no functional forum in place, there is currently no need for real-time server-side processing.
 
+## Web Hosting
+
+This site is currently deployed using GitHub Pages based on the latest valid state of this repository. While GitHub Pages functions in this case as a web host, it is distinct in a key way. By design, GitHub does not give users (even enterprise users) direct access to the servers that build and deploy their statically generated websites. GitHub Pages is entirely a black box outside of user-controlled repositories like this one that trigger re-builds when there's a change.
+
+As described in the Architecture section above, since there is no server access, nothing can be installed. It's not possible to run a PHP/MySQL server for example. For that kind of real-time back-end driven website, another hosting and/or cloud services provider would be required.
+
+### Limits
+
+See GitHub Docs for general information about [GitHub Pages Limits]([url](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)).
+
 ## Domain
 
 `maxforums.org` DNS records are being managed for free through [CloudFlare](https://www.cloudflare.com/plans/free/). The domain is temporarily registerd with NameBright. There is an [open issue](https://github.com/maxforums/maxforums.org/issues/6) to select a suitable long-term domain registrar.
@@ -21,3 +31,5 @@ This back-end was chosen for its low cost, low latency, developer friendliness, 
 ## Contributing
 
 If you would like to get involved, post your thoughts in the `#maxforums-org` channel of the [Maxforums Discord](https://discord.com/invite/b9Qbqfe) or check out the open [Issues](https://github.com/maxforums/maxforums.org/issues) and open a [Pull Request]([url](https://github.com/maxforums/maxforums.org/pulls)).
+
+If a Pull Request is approved and merged then the changes should be live on the web within minutes.
