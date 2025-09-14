@@ -18,11 +18,9 @@ This back-end was chosen for its low cost, low latency, developer friendliness, 
 
 This site is currently deployed using GitHub Pages based on the latest valid state of this repository. While GitHub Pages functions in this case as a web host, it is distinct in a key way. By design, GitHub does not give users (even enterprise users) direct access to the servers that build and deploy their statically generated websites. GitHub Pages is entirely a black box outside of user-controlled repositories like this one that trigger re-builds when there's a change.
 
-As described in the Architecture section above, since there is no server access, nothing can be installed. It's not possible to run a PHP/MySQL server for example. For that kind of real-time back-end driven website, another hosting and/or cloud services provider would be required.
+As described in the Architecture section above, since there is no server access, nothing can be installed. It's not possible to run a custom PHP/MySQL server on GitHub Pages for example. For that kind of real-time back-end driven website, another hosting and/or cloud services provider would be required.
 
-### Limits
-
-See GitHub Docs for general information about [GitHub Pages Limits]([url](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)).
+For information about storage, bandwidth, rate limits, and restrictions, see [GitHub Pages Limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits) on GitHub Docs.
 
 ## Domain
 
