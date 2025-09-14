@@ -12,7 +12,7 @@ As of 8 September, 2025, maxforums.org is pointing to a continuation of the [las
 
 [GitHub Pages](https://docs.github.com/en/pages) uses [Jekyll](https://jekyllrb.com), a [Static Site Generator](https://en.wikipedia.org/wiki/Static_site_generator), to build and deploy changes to the website. Real-time dynamic applications on GitHub Pages are only possible with services, such as with a [Jamstack](https://en.wikipedia.org/wiki/JavaScript_stack#JAMstack) architecture.
 
-This back-end was chosen for its low cost, simple, and secure nature that is well suited for static splash pages like what is being served now. As there is currently no functional forum in place, there is currently no need for real-time server-side processing.
+This back-end was chosen for its low cost, low latency, developer friendliness, and simple, maintainable, robust, and secure nature that is well suited for static splash pages like what is being served now. As there is currently no functional forum in place, there is currently no need for real-time server-side processing.
 
 ## Domain
 
