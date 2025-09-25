@@ -30,7 +30,7 @@ The Maxforums Foundation is a nonprofit organization that oversees and supports 
 
 **Funding and Income**
 
-The Maxforums Foundation comes from the following sources to support its activities: 
+Funding for the Maxforums Foundation comes from the following sources to support its activities: 
 - **Individual Donations**: Members can contribute through one-time donations via PayPal or by becoming a Patron on Patreon.
 - **Merchandise**: Income is also generated through the sale of Maxforums branded swag (mugs, stickers, t-shirts, etc.).
 
