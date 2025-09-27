@@ -4,7 +4,7 @@ This document is a work in progress. As of this writing, the Maxforums Foundatio
 
 ---
 
-The Maxforums Foundation is a nonprofit organization that oversees and supports the Maxforums community.
+The Maxforums Foundation is a nonprofit organization registered in Ghent, Belgium. It oversees and supports the Maxforums community.
 
 ---
 
