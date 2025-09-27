@@ -63,4 +63,4 @@ The funds raised by the Maxforums Foundation are used for various operational an
 - Open Invitations to become a **Foundation Administrator**
     - Davy van Laere
     - Nik Clark
-- There needs to be a formal mechanism for onboarding and exiting Administrators (TBD)
+- There needs to be a formal mechanism for onboarding and exiting Administrators ([TBD](https://github.com/maxforums/maxforums.org/issues/21))
