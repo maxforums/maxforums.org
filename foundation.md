@@ -28,6 +28,18 @@ The Maxforums Foundation is a nonprofit organization that oversees and supports 
 
 ---
 
+**Mission**
+
+The Maxforums Foundation's mission is to honor the legacy of the beloved institution of Maxforums by maintaining a memorial presence and continuing to foster the tight-knit community.
+
+---
+
+**Activities**
+- Organize Meetups
+- Organize community projects
+- Manage and maintain official website and accounts
+- Find and reconnect with old members we've lost touch with and try to bring them back into the fold
+
 **Funding and Income**
 
 Funding for the Maxforums Foundation comes from the following sources to support its activities: 
@@ -47,6 +59,14 @@ The funds raised by the Maxforums Foundation are used for various operational an
 
 ---
 
-**Mission**
-
-The Maxforums Foundation's mission is to honor the legacy of the beloved institution of Maxforums by maintaining a memorial presence and continuing to foster the tight-knit community.
+**Administrators** (Board of Directors)
+- The role of a Foundation Administrator is that of a community caretaker who answers to the community
+- While Admins can make some autonomous decisions, other decisions should be voted on by the wider community
+- Founding Foundation Adminstrators
+    - Kurt Drubbel
+    - Aaron Sarnat
+    - Fred Sjölund
+- Open Invitations to become an Administrator
+    - Davy van Laere
+    - Nik Clark
+- There needs to be a formal mechanism for onboarding and exiting Administrators (TBD)
