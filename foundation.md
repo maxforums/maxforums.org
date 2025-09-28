@@ -64,3 +64,7 @@ The funds raised by the Maxforums Foundation are used for various operational an
     - Davy van Laere
     - Nik Clark
 - There needs to be a formal mechanism for onboarding and exiting Administrators ([TBD](https://github.com/maxforums/maxforums.org/issues/21))
+
+---
+
+Note that this Foundation structure was inspired by the Blender Foundation.
