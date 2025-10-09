@@ -67,4 +67,4 @@ The funds raised by the Maxforums Foundation are used for various operational an
 
 ---
 
-Note that this Foundation structure was inspired by the Blender Foundation.
+Note that this Foundation structure was inspired by the [Blender Foundation](https://www.blender.org/about/foundation).
