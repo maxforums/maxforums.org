@@ -13,11 +13,11 @@ The Maxforums Foundation is a nonprofit organization registered in Ghent, Belgiu
 - admin@maxforums.org email account
 - Contents of the server that maxforums.org points to
 
-**The Foundation does not own yet, but aims to:**
+**The Foundation aims to:**
+- Be granted perpetual usage license for the Maxforums name, brand, and design elements by the Copyright holder.
 - Acquire a copy of any archived data from the original forum that still exists (incl. Wayback Machine)
     - A comprehensive user list would help Discord Moderators classify new server members as Verified original member from the forum era
     - Forum thread data could be curated and archived for community nostalgia purposes.
-- Be granted perpetual usage license for the Maxforums name, brand, and design elements by the copyright holder.
 
 **It manages official Maxforums accounts on:**
 - Discord
@@ -32,21 +32,21 @@ The Maxforums Foundation is a nonprofit organization registered in Ghent, Belgiu
 
 ## Mission
 
-The Maxforums Foundation's mission is to honor the legacy of the beloved institution of Maxforums by maintaining a memorial presence and continuing to foster the tight-knit community.
+The Maxforums Foundation's mission is to honor the legacy of the beloved institution of Maxforums by maintaining a memorial presence and continuing to foster the tight-knit community across multiple platforms.
 
 ## Activities
 - Organize Meetups
 - Organize community projects
 - Manage and maintain official website and accounts
-- Find and reconnect with old members we've lost touch with and try to bring them back into the fold
+- Find and reconnect with original forum members and bring them back into the fold
 
-Note that the Foundation does not aim to market Maxforums to a general audience. The intention, as of its creation, is to focus on the limited cohort of original forum members.
+Note that the Foundation does not aim to market Maxforums to a general audience. The intention is to focus on reaching the limited cohort of original forum members.
 
 ## Funding and Income
 
 Funding for the Maxforums Foundation comes from the following sources to support its activities: 
-- **Individual Donations**: Members can contribute through one-time donations via PayPal or by becoming a Patron on Patreon.
-- **Merchandise**: Income is also generated through the sale of Maxforums branded swag (mugs, stickers, t-shirts, etc.).
+- **Individual Donations**: Members can contribute through one-time or recurring donations via platforms like PayPal and Patreon.
+- **Merchandise**: Income can be generated through the sale of Maxforums branded swag (mugs, stickers, t-shirts, etc.).
 
 ## Expenditures
 
@@ -55,7 +55,7 @@ The funds raised by the Maxforums Foundation are used for various operational an
 - **Operational Costs**: This includes the expenses for managing the organization, registration and renewal fees. 
 - **Meetup Costs**: Reimbursement for group meals, drinks, activities, travel, venue, and lodging expenses for a Maxforums reunions of 3 or more original members 
 - **Perks**: E.g. Discord server boosts.
-- **Legacy**: Perpetual donation to Davy van Laere for everything he has already done for the community.
+- **Legacy Award**: Perpetual donation to Davy van Laere for everything he has already done for the community.
 
 ## Administration (Board of Directors)
 - The role of a **Foundation Administrator** is that of a community caretaker who answers to the community
