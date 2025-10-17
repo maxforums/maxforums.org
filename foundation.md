@@ -4,18 +4,20 @@ This document is a work in progress. As of this writing, the Maxforums Foundatio
 
 ---
 
-The Maxforums Foundation is a nonprofit organization registered in Ghent, Belgium. It oversees and supports the Maxforums community.
+The Maxforums Foundation is a nonprofit organization registered in Ghent, Belgium. It oversees and supports the Maxforums community. The Foundation structure was inspired by the [Blender Foundation](https://www.blender.org/about/foundation).
 
 ---
 
-**It owns and maintains:**
+**The Foundation owns and maintains:**
 - maxforums.org domain
 - admin@maxforums.org email account
-- Contents of the website hosted at maxforums.org
+- Contents of the server that maxforums.org points to
 
-**It does not own yet, but would like to acquire or be granted a perpetual usage license for:**
-- Any archived data from the original forum that still exists (incl. Wayback Machine)
-- Maxforums brand and design elements
+**The Foundation does not own yet, but aims to:**
+- Acquire a copy of any archived data from the original forum that still exists (incl. Wayback Machine)
+    - A comprehensive user list would help Discord Moderators classify new server members as Verified original member from the forum era
+    - Forum thread data could be curated and archived for community nostalgia purposes.
+- Be granted perpetual usage license for the Maxforums name, brand, and design elements by the copyright holder.
 
 **It manages official Maxforums accounts on:**
 - Discord
@@ -37,6 +39,8 @@ The Maxforums Foundation's mission is to honor the legacy of the beloved institu
 - Organize community projects
 - Manage and maintain official website and accounts
 - Find and reconnect with old members we've lost touch with and try to bring them back into the fold
+
+Note that the Foundation does not aim to market Maxforums to a general audience. The intention, as of its creation, is to focus on the limited cohort of original forum members.
 
 ## Funding and Income
 
@@ -64,7 +68,3 @@ The funds raised by the Maxforums Foundation are used for various operational an
     - Davy van Laere
     - Nik Clark
 - There needs to be a formal mechanism for onboarding and exiting Administrators ([TBD](https://github.com/maxforums/maxforums.org/issues/21))
-
----
-
-Note that this Foundation structure was inspired by the [Blender Foundation](https://www.blender.org/about/foundation).
