@@ -59,11 +59,11 @@ The funds raised by the Maxforums Foundation are used for various operational an
 
 ## Administration (Board of Directors)
 - The role of a **Foundation Administrator** is that of a community caretaker who answers to the community
-- While Admins can make some autonomous decisions, other decisions should be voted on by the wider community
+- While Administrators can make some autonomous decisions, other decisions should be voted on by the wider community
 - Founding **Foundation Adminstrators**
     - Kurt Drubbel
     - Aaron Sarnat
-    - Fred Sjölund
+    - Frederik Sjölund
 - Open Invitations to become a **Foundation Administrator**
     - Davy van Laere
     - Nik Clark
