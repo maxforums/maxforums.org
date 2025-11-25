@@ -18,9 +18,13 @@ Once established, reprobates from all over the planet found each other in this p
 
 The rise of Facebook, Twitter, and other social media platforms meant that trends were shifting away from forums. Also Google and YouTube made it easier than ever to find 3D Studio Max learning resources... without having to actually talk to people. :P
 
+Then there was the spam and trolling from the user who shall not be named.
+
+Through it all, the hardcore MF'ers stayed and popped in every once in awhile to ask "who's still here?"
+
 ## Sunset
 
-Spoon announced shortly after the redesign was launched in 2018 that he intended to sunset maxforums and retire from the project eventually. Forum engagement had trailed off and Mods had gotten burned out on dealing with spam and trolling. As the sole developer on a custom codebase, it had become increasingly difficult to meet community demands for feature partiy with other forum software. Also the global interest in 3D Studio Max seemed to have fallen relative to other software such as Maya, C4D, and Blender.
+Spoon announced shortly after the final redesign was launched in 2018 that he intended to sunset maxforums and retire from the project eventually. Forum engagement had trailed off and Mods had gotten burned out on dealing with spam and trolling. As the sole developer on a custom codebase, it had become increasingly difficult to meet community demands for feature partiy with other forum software. Also the global interest in 3D Studio Max seemed to have fallen relative to other software such as Maya, C4D, and Blender.
 
 In 2022 after ample warning to the community and time to move active conversations from the forum to discord, spoon finally pulled the plug on Maxforums. So long and thanks for all the fish!
 
