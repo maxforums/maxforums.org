@@ -16,7 +16,7 @@ Once established, reprobates from all over the planet found each other in this p
 
 2012-2020 (todo: expand this section, check dates).
 
-The rise of Facebook, Twitter, and other  
+The rise of Facebook, Twitter, and other social media platforms meant that trends were shifting away from forums. Also Google and YouTube made it easier than ever to find 3D Studio Max learning resources... without having to actually talk to people. :P
 
 ## Sunset
 
